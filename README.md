@@ -3,7 +3,7 @@ Hola esta es mi contribucion
 
 Cambios desde GitHub online
 
-Una actualización mas
+Uso de Git Fetch
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
